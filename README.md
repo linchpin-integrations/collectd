@@ -1,4 +1,4 @@
-# collectd 
+# CollectD
 Collectd Integration micro-service
 
 [![Build Status](https://travis-ci.org/linchpin-integrations/collectd.svg?branch=master)](https://travis-ci.org/linchpin-integrations/collectd)

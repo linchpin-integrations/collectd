@@ -1,0 +1,13 @@
+{
+  "process_hook": {
+    "type": "object",
+    "description":"Process collectd Events from a hook",
+    "properties": {
+      "name": {
+        "type":"string"
+      }
+    },
+    "required": ["name"],
+    "additionalProperties":false
+  }
+}
