@@ -4,7 +4,8 @@
     "description":"Process collectd Events from a hook",
     "properties": {
       "name": {
-        "type":"string"
+        "type":"string",
+        "title":"Name"
       }
     },
     "required": ["name"],
